@@ -1,10 +1,54 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Dude – Web-Based AI Assistant
 
-# Run and deploy your AI Studio app
+Dude is a smart and responsive web-based AI assistant designed to provide fast, accurate answers and help users automate everyday tasks. Built with modern web technologies, Dude focuses on simplicity, speed, and an intuitive user experience.
 
-This contains everything you need to run your app locally.
+🚀 Features
+
+⚡ Instant responses
+
+🧠 Intelligent text understanding
+
+🌐 Fully web-based — no installation needed
+
+🎨 Clean and simple UI
+
+📱 Works across devices (mobile, tablet, desktop)
+
+🧩 Easy to integrate into other web apps
+
+🛠 Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+
+Backend / AI Integration: API-based AI model
+
+Hosting: Any modern web hosting service
+
+📦 Installation & Setup
+
+Clone the repository
+
+git clone https://github.com/your-username/dude-ai-assistant.git
+
+
+Navigate to the project folder
+
+cd dude-ai-assistant
+
+
+Open index.html in your browser
+or host it on your preferred platform.
+
+Insert your API key in the script file (if required by your setup).
+
+📚 Usage
+
+Type your question or prompt in the chat box
+
+Dude will process and respond instantly
+
+Use it for daily tasks, learning, coding help, summaries, and more
+
 
 View your app in AI Studio: https://ai.studio/apps/drive/1Lc1JWBdWECS4S9NhN0_sdqBZWX1PtSqL
 
