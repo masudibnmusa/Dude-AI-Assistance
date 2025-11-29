@@ -1,0 +1,5 @@
+{
+  "name": "Dude",
+  "description": "A relaxed, AI-powered chatbot named Dude. Built with React, Tailwind CSS, and the Gemini API.",
+  "requestFramePermissions": []
+}
