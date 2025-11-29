@@ -28,7 +28,7 @@ Hosting: Any modern web hosting service
 
 Clone the repository
 
-git clone https://github.com/your-username/dude-ai-assistant.git
+git clone (https://github.com/masudibnmusa/Dude-AI-Assistance.git)
 
 
 Navigate to the project folder
@@ -50,7 +50,6 @@ Dude will process and respond instantly
 Use it for daily tasks, learning, coding help, summaries, and more
 
 
-View your app in AI Studio: https://ai.studio/apps/drive/1Lc1JWBdWECS4S9NhN0_sdqBZWX1PtSqL
 
 ## Run Locally
 
